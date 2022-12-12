@@ -22,7 +22,7 @@ function Strength(props) {
     
   return (
     <div className="Strength">
-        <p>{strength} Password</p>
+        <p>The Password is {strength} </p>
     </div>
   );
 }
